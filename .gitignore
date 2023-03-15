@@ -3,9 +3,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,maven,intellij+all,vim,emacs,vscode,xcode,code,netbeans,eclipse
 
 ### Code ###
-.vscode/*
-!.vscode/tasks.json
-!.vscode/launch.json
 *.code-workspace
 
 ### Eclipse ###
@@ -296,8 +293,6 @@ tags
 [._]*.un~
 
 ### vscode ###
-!.vscode/settings.json
-!.vscode/extensions.json
 
 ### Xcode ###
 # Xcode
@@ -412,3 +407,5 @@ gradle-app.setting
 #
 # # End of https://www.toptal.com/developers/gitignore/api/gradle
 gradle*
+temp_auto_push.bat
+temp_interactive_push.bat
